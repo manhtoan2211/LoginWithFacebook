@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestLoginApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">557481854695149</string>
+    <string name="facebook_login_protocol_scheme">fb557481854695149</string>
+</resources>
