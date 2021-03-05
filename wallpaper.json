@@ -24,10 +24,6 @@
     "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/59.jpg"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/wwdc6.jpg",
-    "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/wwdc6.jpg"
-  },
-  {
     "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/wwdc5.jpg",
     "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/wwdc5.jpg"
   },
@@ -310,5 +306,9 @@
   {
     "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/71.jpg",
     "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/71.jpg"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/wwdc6.jpg",
+    "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/wwdc6.jpg"
   }
 ]
